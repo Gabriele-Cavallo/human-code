@@ -11,7 +11,7 @@
         -prendo il listino  
         -scorro la lista delle pizze
 
-    2- Scegliere la piza
+    2- Scegliere la pizza
         -Controlla ogni pizza
             -SE è prosciutto e funghi smetti di cercare
 
@@ -26,7 +26,7 @@
         - pago il fattorino
         - prendo la pizza
         - chiudo la porta
+
     5-Tenere gli avanzi
-    
         -SE finisco la pizza non faccio niente
         -ALTRIMENTI metto gli avanzi in frigo
